@@ -1,7 +1,7 @@
 # Site settings
-title: Another Blog
+title: Patrick's Coding Adventures
 url: "https://patricksmith.dev"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
-baseurl: "/" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
+baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
   One or more sentences introducing this blog.
@@ -10,12 +10,13 @@ description: >
 email: mpatricks@gmail.com
 author: Patrick Smith
 avatar: "//secure.gravatar.com/avatar/e399a27c2648d60f496564029abcf5d0"
-profile: One sentence introducing yourself.
+profile: Professional Software Engineer, focusing on Agile Methodologies and Test Driven Development.
 twitter_username: logitron
 github_username:  logitron
 profile_links:
   Email: "mailto:mpatricks@gmail.com"
   GitHub: "https://github.com/logitron"
+  LinkedIn: "https://www.linkedin.com/in/mpatricks/"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
