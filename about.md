@@ -6,8 +6,17 @@ permalink: /about/
 > Staff Software Engineer at The Home Depot
 
 ## Summary
-Professional Software Engineer, focusing on Agile Methodologies
-and Test Driven Development.
+I have 3 major goals when it comes to delivering software:
+
+1. **Delivering Value to End-Users**
+2. **Generating Easily Maintainable/Upgradable Software**
+3. **Having High Confidence that the Software Works**
+
+For **delivering value to end-users**, I have learned key tools that I believe in for accomplishing that end-goal; specifically, Agile methodologies, collaboratively working with Product Managers, User Experience Designers and End Users, strong engineering team collaboration/communication, and a continuous integration/delivery modal.
+
+For **generating easily maintainable/upgradable software**, I believe in strong architecture using proven design patterns.  For the framework I'm working in, I always strive to learn what the best practices are for working within that framework.  I constantly read to ensure that I'm keeping up with the always changing technology to ensure that neither I nor my code becomes legacy.
+
+For **having high confidence that my software works**, I strongly believe in testing.  I have spent years doing no testing, post-testing, and pre-testing.  Through that experience, I have learned that Test-Driven Development achieves confidence, and I develop in this fashion.  I also believe in having a combination of unit, integration, and feature tests in my code.  This all gives me high confidence that I'm delivering value without compromising already existing value.
 
 ## Experience
 **The Home Depot - Atlanta, GA**  
